@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-systemd-dependency-graph"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS systemd-dependency-graph component - init_system"
+
+[lib]
+name = "systemd_dependency_graph"
+path = "src/lib.rs"
