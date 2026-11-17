@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-dependency-graph"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-dependency-graph component"
+description = "systemd dependency graph"
 upstream = []
 
 [contract]
